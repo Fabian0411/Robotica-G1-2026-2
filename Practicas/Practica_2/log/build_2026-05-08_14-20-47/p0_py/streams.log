@@ -1,0 +1,27 @@
+[6.308s] Invoking command in '/home/arrgusr/ROS2Dev/ws_sem26_2/build/p0_py': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/arrgusr/ROS2Dev/ws_sem26_2/build/p0_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/arrgusr/ROS2Dev/ws_sem26_2/install/p0_py/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/arrgusr/ROS2Dev/ws_sem26_2/build/p0_py/build --no-deps symlink_data
+[7.366s] running develop
+[8.156s] running egg_info
+[8.156s] creating p0_py.egg-info
+[8.249s] writing p0_py.egg-info/PKG-INFO
+[8.249s] writing dependency_links to p0_py.egg-info/dependency_links.txt
+[8.250s] writing entry points to p0_py.egg-info/entry_points.txt
+[8.251s] writing requirements to p0_py.egg-info/requires.txt
+[8.251s] writing top-level names to p0_py.egg-info/top_level.txt
+[8.257s] writing manifest file 'p0_py.egg-info/SOURCES.txt'
+[8.597s] reading manifest file 'p0_py.egg-info/SOURCES.txt'
+[8.598s] writing manifest file 'p0_py.egg-info/SOURCES.txt'
+[8.653s] running build_ext
+[8.653s] Creating /home/arrgusr/ROS2Dev/ws_sem26_2/install/p0_py/lib/python3.12/site-packages/p0-py.egg-link (link to .)
+[8.655s] Installing convertidor script to /home/arrgusr/ROS2Dev/ws_sem26_2/install/p0_py/lib/p0_py
+[8.656s] Installing generador script to /home/arrgusr/ROS2Dev/ws_sem26_2/install/p0_py/lib/p0_py
+[8.657s] Installing q_plan_py script to /home/arrgusr/ROS2Dev/ws_sem26_2/install/p0_py/lib/p0_py
+[8.657s] Installing scara_control_py script to /home/arrgusr/ROS2Dev/ws_sem26_2/install/p0_py/lib/p0_py
+[8.658s] 
+[8.660s] Installed /home/arrgusr/ROS2Dev/ws_sem26_2/build/p0_py
+[8.661s] running symlink_data
+[8.662s] creating /home/arrgusr/ROS2Dev/ws_sem26_2/install/p0_py/share/ament_index
+[8.663s] creating /home/arrgusr/ROS2Dev/ws_sem26_2/install/p0_py/share/ament_index/resource_index
+[8.663s] creating /home/arrgusr/ROS2Dev/ws_sem26_2/install/p0_py/share/ament_index/resource_index/packages
+[8.666s] symbolically linking /home/arrgusr/ROS2Dev/ws_sem26_2/build/p0_py/resource/p0_py -> /home/arrgusr/ROS2Dev/ws_sem26_2/install/p0_py/share/ament_index/resource_index/packages
+[8.666s] symbolically linking /home/arrgusr/ROS2Dev/ws_sem26_2/build/p0_py/package.xml -> /home/arrgusr/ROS2Dev/ws_sem26_2/install/p0_py/share/p0_py
+[8.749s] Invoked command in '/home/arrgusr/ROS2Dev/ws_sem26_2/build/p0_py' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/arrgusr/ROS2Dev/ws_sem26_2/build/p0_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/arrgusr/ROS2Dev/ws_sem26_2/install/p0_py/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/arrgusr/ROS2Dev/ws_sem26_2/build/p0_py/build --no-deps symlink_data

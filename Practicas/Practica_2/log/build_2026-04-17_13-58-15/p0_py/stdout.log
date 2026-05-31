@@ -1,0 +1,43 @@
+running egg_info
+creating ../../build/p0_py/p0_py.egg-info
+writing ../../build/p0_py/p0_py.egg-info/PKG-INFO
+writing dependency_links to ../../build/p0_py/p0_py.egg-info/dependency_links.txt
+writing entry points to ../../build/p0_py/p0_py.egg-info/entry_points.txt
+writing requirements to ../../build/p0_py/p0_py.egg-info/requires.txt
+writing top-level names to ../../build/p0_py/p0_py.egg-info/top_level.txt
+writing manifest file '../../build/p0_py/p0_py.egg-info/SOURCES.txt'
+reading manifest file '../../build/p0_py/p0_py.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/p0_py/p0_py.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/arrgusr/ROS2Dev/ws_sem26_2/build/p0_py/build
+creating /home/arrgusr/ROS2Dev/ws_sem26_2/build/p0_py/build/lib
+creating /home/arrgusr/ROS2Dev/ws_sem26_2/build/p0_py/build/lib/p0_py
+copying p0_py/__init__.py -> /home/arrgusr/ROS2Dev/ws_sem26_2/build/p0_py/build/lib/p0_py
+copying p0_py/generador_rpm.py -> /home/arrgusr/ROS2Dev/ws_sem26_2/build/p0_py/build/lib/p0_py
+copying p0_py/convertidor_rads.py -> /home/arrgusr/ROS2Dev/ws_sem26_2/build/p0_py/build/lib/p0_py
+copying p0_py/primer_nodo.py -> /home/arrgusr/ROS2Dev/ws_sem26_2/build/p0_py/build/lib/p0_py
+running install
+running install_lib
+creating /home/arrgusr/ROS2Dev/ws_sem26_2/install/p0_py/lib/python3.12/site-packages/p0_py
+copying /home/arrgusr/ROS2Dev/ws_sem26_2/build/p0_py/build/lib/p0_py/__init__.py -> /home/arrgusr/ROS2Dev/ws_sem26_2/install/p0_py/lib/python3.12/site-packages/p0_py
+copying /home/arrgusr/ROS2Dev/ws_sem26_2/build/p0_py/build/lib/p0_py/generador_rpm.py -> /home/arrgusr/ROS2Dev/ws_sem26_2/install/p0_py/lib/python3.12/site-packages/p0_py
+copying /home/arrgusr/ROS2Dev/ws_sem26_2/build/p0_py/build/lib/p0_py/convertidor_rads.py -> /home/arrgusr/ROS2Dev/ws_sem26_2/install/p0_py/lib/python3.12/site-packages/p0_py
+copying /home/arrgusr/ROS2Dev/ws_sem26_2/build/p0_py/build/lib/p0_py/primer_nodo.py -> /home/arrgusr/ROS2Dev/ws_sem26_2/install/p0_py/lib/python3.12/site-packages/p0_py
+byte-compiling /home/arrgusr/ROS2Dev/ws_sem26_2/install/p0_py/lib/python3.12/site-packages/p0_py/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/arrgusr/ROS2Dev/ws_sem26_2/install/p0_py/lib/python3.12/site-packages/p0_py/generador_rpm.py to generador_rpm.cpython-312.pyc
+byte-compiling /home/arrgusr/ROS2Dev/ws_sem26_2/install/p0_py/lib/python3.12/site-packages/p0_py/convertidor_rads.py to convertidor_rads.cpython-312.pyc
+byte-compiling /home/arrgusr/ROS2Dev/ws_sem26_2/install/p0_py/lib/python3.12/site-packages/p0_py/primer_nodo.py to primer_nodo.cpython-312.pyc
+running install_data
+creating /home/arrgusr/ROS2Dev/ws_sem26_2/install/p0_py/share/ament_index
+creating /home/arrgusr/ROS2Dev/ws_sem26_2/install/p0_py/share/ament_index/resource_index
+creating /home/arrgusr/ROS2Dev/ws_sem26_2/install/p0_py/share/ament_index/resource_index/packages
+copying resource/p0_py -> /home/arrgusr/ROS2Dev/ws_sem26_2/install/p0_py/share/ament_index/resource_index/packages
+copying package.xml -> /home/arrgusr/ROS2Dev/ws_sem26_2/install/p0_py/share/p0_py
+running install_egg_info
+Copying ../../build/p0_py/p0_py.egg-info to /home/arrgusr/ROS2Dev/ws_sem26_2/install/p0_py/lib/python3.12/site-packages/p0_py-0.0.0-py3.12.egg-info
+running install_scripts
+Installing convertidor script to /home/arrgusr/ROS2Dev/ws_sem26_2/install/p0_py/lib/p0_py
+Installing generador script to /home/arrgusr/ROS2Dev/ws_sem26_2/install/p0_py/lib/p0_py
+writing list of installed files to '/home/arrgusr/ROS2Dev/ws_sem26_2/build/p0_py/install.log'
